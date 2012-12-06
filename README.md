@@ -15,3 +15,5 @@ What it can't
 
 1. No multiplayer capability.
 2. No AI to play against.
+
+You need to have python and pygame to be installed on your system to run this game.
